@@ -1,6 +1,6 @@
 
 # 🎨 About this
-[日本語はこちら](#-概要)
+[日本語はこちら](#-%E6%A6%82%E8%A6%81)
 
 ![AboutThis](./README_Asetts/AboutThis.png)
 - This is an illustration of Gopher, the mascot of the Go programming language.
@@ -57,10 +57,9 @@ Specifically **Please include one of the following statements** in your blog pos
 ![AboutThis](./README_Asetts/AboutThis.png)
 - これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
 
-
 ### 🥁🎉 このイラストは無料です 
 - ここへアップしてあるイラストはすべて無料でご利用いただけます。
-- ご利用の際は[イラストのご利用におけるガイドライン](#-イラストのご利用におけるガイドライン)をご参照の上、クレジットを明記して正しくご利用ください。
+- ご利用の際は[イラストのご利用におけるガイドライン](#-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
 <br>
 
 # 📣 イラストのご利用におけるガイドライン
